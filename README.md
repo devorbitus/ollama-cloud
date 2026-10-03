@@ -74,7 +74,7 @@ Each conversation agent/AI task can be configured with:
 
 ## Requirements
 
-- Home Assistant 2025.2.4 or later
+- Home Assistant 2025.8.0 or later
 - An Ollama Cloud API key
 
 ## Disclaimer
